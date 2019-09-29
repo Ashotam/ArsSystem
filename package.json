@@ -1,0 +1,40 @@
+{
+  "_args": [
+    [
+      "react@16.8.6",
+      "C:\\Users\\Admin\\Desktop\\Cin"
+    ]
+  ],
+  "_from": "react@16.8.6",
+  "_id": "react@16.8.6",
+  "_inBundle": false,
+  "_integrity": "sha512-pC0uMkhLaHm11ZSJULfOBqV4tIZkx87ZLvbbQYunNixAAvjnC+snJCg0XQXn9VIsttVsbZP/H/ewzgsd5fxKXw==",
+  "_location": "/react",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react@16.8.6",
+    "name": "react",
+    "escapedName": "react",
+    "rawSpec": "16.8.6",
+    "saveSpec": null,
+    "fetchSpec": "16.8.6"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react/-/react-16.8.6.tgz",
+  "_spec": "16.8.6",
+  "_where": "C:\\Users\\Admin\\Desktop\\Cin",
+  "browserify": {
+    "transform": [
+      "loose-envify"
+    ]
+  },
+  "bugs": {
+    "url"
+
+  "dependencies": {
+    "react-dom": "latest"
+  },
